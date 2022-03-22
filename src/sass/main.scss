@@ -1,7 +1,11 @@
-@use 'base';
-@use 'layout';
-@use 'components';
+@import "base";
+@import "typography";
 
-body {
-  background-color: base.$color-bg;
-}
+@import "sidebar";
+@import "header";
+@import "realtors";
+@import "features";
+@import "story";
+@import "homes";
+@import "gallery";
+@import "footer";
