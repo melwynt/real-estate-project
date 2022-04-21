@@ -117,7 +117,7 @@ const App = () => {
             </svg>
             <p>$1,200,000</p>
           </div>
-          <button className="cta">Contact realtor</button>
+          <button className="btn home__btn">Contact realtor</button>
         </div>
         {/* end home 1 */}
         <div className="home">
@@ -156,7 +156,7 @@ const App = () => {
             </svg>
             <p>$2,200,000</p>
           </div>
-          <button className="cta">Contact realtor</button>
+          <button className="btn home__btn">Contact realtor</button>
         </div>
         {/* end home 2 */}
         <div className="home">
@@ -195,7 +195,7 @@ const App = () => {
             </svg>
             <p>$800,000</p>
           </div>
-          <button className="cta">Contact realtor</button>
+          <button className="btn home__btn">Contact realtor</button>
         </div>
         {/* end home 3 */}
         <div className="home">
@@ -234,7 +234,7 @@ const App = () => {
             </svg>
             <p>$1,200,000</p>
           </div>
-          <button className="cta">Contact realtor</button>
+          <button className="btn home__btn">Contact realtor</button>
         </div>
         {/* end home 4 */}
         <div className="home">
@@ -273,7 +273,7 @@ const App = () => {
             </svg>
             <p>$1,200,000</p>
           </div>
-          <button className="cta">Contact realtor</button>
+          <button className="btn home__btn">Contact realtor</button>
         </div>
         {/* end home 5 */}
         <div className="home">
@@ -312,7 +312,7 @@ const App = () => {
             </svg>
             <p>$1,200,000</p>
           </div>
-          <button className="cta">Contact realtor</button>
+          <button className="btn home__btn">Contact realtor</button>
         </div>
         {/* end home 6 */}
       </section>
